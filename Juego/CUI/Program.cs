@@ -11,6 +11,7 @@ namespace CUI
         static void Main()
         {
             Console.WriteLine("Hola Git");
+            Console.ReadLine();
         }
     }
 }
